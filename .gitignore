@@ -1,0 +1,44 @@
+# Dependencies
+/node_modules
+/bower_components
+
+# Production build files
+/build
+/dist
+/.next
+/out
+
+# Environment variables
+.env
+.env.local
+.env.*.local
+
+# IDE specific files
+.idea/
+.vscode/
+*.swp
+*.swo
+.DS_Store
+
+# Debug logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+debug.log
+
+# Coverage reports
+/coverage
+
+# Cache directories
+.npm
+.eslintcache
+.cache
+.parcel-cache
+
+# Optional: Database files
+*.sqlite
+*.db
+
+# Optional: System Files
+Thumbs.db
+desktop.ini
